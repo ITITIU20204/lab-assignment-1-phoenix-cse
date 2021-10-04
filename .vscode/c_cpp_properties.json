@@ -13,7 +13,8 @@
             "includePath": [
                 "${default}",
                 "${workspaceFolder}/src"
-            ]
+            ],
+            "compilerPath": "C:/Program Files/MinGW/mingw64/bin/gcc"
         },
         {
             "name": "Linux - GCC",
